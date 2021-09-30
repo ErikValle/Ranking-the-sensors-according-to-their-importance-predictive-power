@@ -1,0 +1,5 @@
+# Base ----------------------------------------
+matplotlib>=3.2.2
+numpy>=1.18.5
+pandas
+scikit-learn>=0.19.2
